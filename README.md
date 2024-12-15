@@ -87,6 +87,3 @@ The workflow file (`package.yml`) is located in `.github/workflows/` and is trig
 
 - [PyInstaller Documentation](https://pyinstaller.org/)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
-```
-
-This `README.md` explains the workflow process, its setup, and how to use it to package a Python application into an executable. You can modify the instructions as per your specific requirements or use cases.
