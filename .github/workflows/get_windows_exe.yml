@@ -1,5 +1,5 @@
 name: Package Application with PyInstaller
-'on':
+on:
   push:
     branches:
       - main
